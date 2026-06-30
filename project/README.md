@@ -3,3 +3,4 @@
 立创EDA  
 Altium Designer  
 PADS  
+使用前请务必阅读INTROUDE.md
