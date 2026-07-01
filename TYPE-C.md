@@ -28,4 +28,4 @@ TYPE-C输入电路原理图：
 如果没有 D5： 板子上的 5V（甚至可能因为波动变成 5.5V）会顺着 Type-C 线，倒灌回你电脑的主板里，极大概率会把你电脑的 USB 供电芯片直接烧毁！  
   
 有了 D5： 它是个单向阀。电脑的电可以进板子，但板子的电绝对出不去。它完美地保护了你的昂贵设备。  
-<img width="302" height="302" alt="GinnamonGinmamoninnamon" src="https://github.com/user-attachments/assets/8bea2e17-9d94-46f2-bbcb-13b91bdf4d65" />
+
