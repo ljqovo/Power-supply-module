@@ -1,5 +1,6 @@
 ## 电源输入电路：  
-<img width="574" height="403" alt="image" src="https://github.com/user-attachments/assets/ddbab690-4943-4534-ac51-80955d8a8062" />  
+<img width="977" height="652" alt="image" src="https://github.com/user-attachments/assets/de460bde-862b-407f-a5a6-8263cdf45be2" />
+  
 
 ## 电路分析：  
 ### 当开关接1时
