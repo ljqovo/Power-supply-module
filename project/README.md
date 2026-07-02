@@ -6,7 +6,8 @@
 使用前请务必阅读INTROUDE.md  
 
 📌  
-<img width="1439" height="1012" alt="屏幕截图 2026-07-02 204240" src="https://github.com/user-attachments/assets/b8259c12-4f8c-48d3-b9bf-81c1caae558f" />
-<img width="1771" height="888" alt="屏幕截图 2026-07-02 204228" src="https://github.com/user-attachments/assets/24fcfdb9-3f9f-441c-8a22-22f1896610fe" />
-<img width="1789" height="889" alt="屏幕截图 2026-07-02 204206" src="https://github.com/user-attachments/assets/275375d3-41c6-48a5-a545-ac6bb5328830" />
+<img width="1439" height="1012" alt="Schematic" src="https://github.com/user-attachments/assets/61633805-e04e-46d7-bd87-f2d5114f18d3" />
+<img width="1771" height="888" alt="PCB" src="https://github.com/user-attachments/assets/28267e3c-a638-4b16-91a2-9003bac286c2" />
+<img width="1789" height="889" alt="3D" src="https://github.com/user-attachments/assets/90dfc576-90f3-46fa-b8e9-645f635d9171" />
+
 
